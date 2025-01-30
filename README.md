@@ -70,4 +70,4 @@ Hlava se nachází na prvním symbolu '1' a stroj je v počátečním stavu '000
 
 ## Licence
 
-Open-source (bez specifikace konkrétní licence).
+Open-source (bez konkrétní licence).
